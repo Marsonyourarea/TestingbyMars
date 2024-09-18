@@ -1,34 +1,32 @@
-# Animated Animals Website
+# Colorful Animals Website
 
-Welcome to the Animated Animals Website! This project showcases various animal species with animations, images, and fun facts.
+Selamat datang di Colorful Animals Website! Proyek ini menampilkan berbagai spesies hewan dengan animasi dan desain yang berwarna-warni.
 
-## Table of Contents
+## Daftar Isi
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Fitur](#fitur)
+- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
 
-## Features
+## Fitur
 
-- **Animal Information**: Detailed descriptions of various animals.
-- **Image Gallery**: Beautiful images for each species.
-- **Fun Facts**: Interesting trivia about animals.
-- **Animations**: Smooth animations for better user experience.
-- **Responsive Design**: Works on both desktop and mobile devices.
+- **Informasi Hewan**: Deskripsi rinci tentang berbagai hewan.
+- **Galeri Gambar**: Gambar-gambar indah untuk setiap spesies.
+- **Fakta Menarik**: Trivia menarik tentang hewan.
+- **Animasi**: Animasi halus untuk pengalaman pengguna yang lebih baik.
+- **Desain Responsif**: Berfungsi di perangkat desktop dan seluler.
 
-## Technologies Used
+## Teknologi yang Digunakan
 
 - HTML
 - CSS
 - JavaScript
-- [Any frameworks or libraries used, e.g., Bootstrap, jQuery]
 
-## Installation
+## Instalasi
 
-1. Clone the repository:
+1. Kloning repositori:
    ```bash
-   git clone https://github.com/yourusername/animated-animals-website.git
-
+   git clone https://github.com/username/colorful-animals-website.git
